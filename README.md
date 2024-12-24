@@ -1,3 +1,10 @@
+<div align='center'>
+    <img src='https://raw.githubusercontent.com/deveshjoshi101/pan-aadhaar-ocr/main/media/banner.png' height='50%' width='50%'/><br/>
+    <a href='https://www.npmjs.com/package/pan-aadhaar-ocr'><img src='https://img.shields.io/npm/v/pan-aadhaar-ocr?logo=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fpan-aadhaar-ocr'/></a>
+    <a href='./LICENSE'><img src='https://img.shields.io/github/license/deveshjoshi101/pan-aadhaar-ocr?logo=github' /></a>
+    <a href='https://twitter.com/deveshjoshi101'><img src='https://img.shields.io/badge/Author-@devesh_joshi-blue?logo=twitter' /></a>
+</div>
+
 # PAN and Aadhaar OCR Extraction
 
 This project uses **Tesseract.js** to extract text from images and detect PAN or Aadhaar card details from the extracted text. The OCR processing is done on a sample image, and based on the text extracted, the program detects whether the card is a **PAN** or **Aadhaar** card.
