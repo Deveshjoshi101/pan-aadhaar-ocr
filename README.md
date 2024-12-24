@@ -1,8 +1,7 @@
 <div align='center'>
-    <img src='https://raw.githubusercontent.com/deveshjoshi101/pan-aadhaar-ocr/main/media/banner.png' height='50%' width='50%'/><br/>
-    <a href='https://www.npmjs.com/package/pan-aadhaar-ocr'><img src='https://img.shields.io/npm/v/pan-aadhaar-ocr?logo=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fpan-aadhaar-ocr'/></a>
+    <img src='https://raw.githubusercontent.com/Deveshjoshi101/pan-aadhaar-ocr/refs/heads/master/cards.png' height='50%' width='50%'/><br/>
     <a href='./LICENSE'><img src='https://img.shields.io/github/license/deveshjoshi101/pan-aadhaar-ocr?logo=github' /></a>
-    <a href='https://twitter.com/deveshjoshi101'><img src='https://img.shields.io/badge/Author-@devesh_joshi-blue?logo=twitter' /></a>
+    <a href='https://x.com/DeveshJoshi101'><img src='https://img.shields.io/badge/Author-@devesh_joshi-blue?logo=twitter' /></a>
 </div>
 
 # PAN and Aadhaar OCR Extraction
